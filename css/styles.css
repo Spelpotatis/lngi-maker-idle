@@ -1,0 +1,26 @@
+#number{
+    font-size: 4em;
+    color: blue;
+}
+
+#function{
+    font-size: 2em;
+}
+
+#frameAdvance{
+    background-color: rgb(212, 235, 175);
+    width: fit-content;
+    padding: 0.5em;
+    border-style: solid;
+    user-select: none;
+}
+
+#frameAdvance:hover{
+    background-color: rgb(192, 236, 120);
+    border-color: rgb(122, 131, 119);
+}
+
+#frameAdvance:active{
+    background-color: rgb(164, 238, 46);
+    border-color: rgb(189, 194, 187);
+}
